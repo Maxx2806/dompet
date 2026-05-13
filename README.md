@@ -1,2 +1,3 @@
-Screenshoot Aolikasi
+📷 Screenshoot Aplikasi 📷 
+
 ![Preview Aplikasi](gambarhasil.jpeg)
